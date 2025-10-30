@@ -209,3 +209,6 @@ chatsan-replacement-67 = all good
 
 chatsan-word-68 = alr
 chatsan-replacement-68 = alright
+
+chatsan-word-69 = shitsec
+chatsan-replacement-69 = meanies
